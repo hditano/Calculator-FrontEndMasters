@@ -34,12 +34,13 @@ body {
 .calc-button {
   background-color: rgb(216, 217, 219);
   height: 100px;
-  width: 32.5%;
+  width: 25%;
   border: none;
   border-radius: 0px;
   font-size: 40px;
   cursor: pointer;  
   padding: 0px;
+  margin: 0.5px;
 }
 
 .calc-button:last-child {
